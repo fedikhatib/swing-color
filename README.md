@@ -1,2 +1,4 @@
-# swing-color
-JAVA swing color picker project 
+# Swing Color
+
+Java Swing color picker 
+
